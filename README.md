@@ -1,4 +1,4 @@
-"""Hangman - A simple command-line game.
+""Hangman""- A simple command-line game.
 Guess a secret word letter by letter.
 The player has a limited number of incorrect guesses before
 the hangman is fully drawn.
