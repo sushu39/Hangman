@@ -5,9 +5,15 @@ the hangman is fully drawn.
 This game displays ASCII art of the hangman, and updates it with
 each incorrect guess. The player wins by guessing all letters of
 the secret word correctly within the given attempts.
+
+
 Usage:
+
     python3 hangman.py
+
+    
 Instructions:
+
 - Enter your name when prompted.
 - You'll be given a limited number of attempts to guess the secret word.
 - Enter a single letter as your guess for each round. Letters may be
