@@ -22,3 +22,5 @@ Instructions:
 - If your guess is incorrect, a part of the hangman will be drawn.
 - You win if you guess all letters before the hangman is fully drawn.
 Good luck and have fun playing Hangman!
+GIT REPO : 
+https://github.com/sushu39/Hangman.git
